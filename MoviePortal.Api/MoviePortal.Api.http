@@ -1,0 +1,6 @@
+@MoviePortal.Api_HostAddress = http://localhost:5207
+
+GET {{MoviePortal.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
